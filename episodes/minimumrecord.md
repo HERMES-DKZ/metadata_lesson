@@ -81,8 +81,6 @@ The Minimum Record Recommendation is an attempt to formulate a minimum set of da
 :::  
 __________________________________________________
 
-<span style="color:red">There are two sets of links on the bottom of the page. Why?</span>
-
 [1]: [Minimum Record Recommendation](https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=218628097)  
 [2]: [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/?lang=en)  
 [3]: [Europeana](https://www.europeana.eu/en)  
