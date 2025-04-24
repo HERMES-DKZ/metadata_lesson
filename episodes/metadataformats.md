@@ -1,5 +1,5 @@
 ---
-title: "Collecting, Storing, Processing"
+title: "Collecting, Storing and Processing Metadata"
 teaching: 20
 exercises: 10
 ---
@@ -13,9 +13,9 @@ exercises: 10
 
 ::: objectives
 
-- Knowledge of basics of CSV format for storing and processing metadata. 
-- Familiar with the structure of a simple CSV file.
-- Knowledge of the main difference between an xslx and a csv format.
+- Learn basics of the CSV format for storing and processing metadata. 
+- Get familiar with the structure of a simple CSV file.
+- Learn the main difference between the XSLX and CSV formats.
    
 :::
 
@@ -25,7 +25,7 @@ exercises: 10
 ::: challenge
 
 ### Question: 
-Do you know formats in which data can be stored in a structured way? 
+Do you know the formats in which data can be stored in a structured way? 
 
 ::: solution
 
